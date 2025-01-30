@@ -66,7 +66,7 @@ Furthermore, being able to apply a global filter and sort to all results means t
 rather than having to check each addon individually.
 
 ### What are the currently supported addons?
-
+ 
 It currently supports:
 
 - Torrentio
